@@ -2,7 +2,7 @@
   CustomTags UI is a plugin that allow you to use custom tags in your in-game name!
 # Plugin Detail
  - Name: CustomTagsUI
- - Author: @ Guin ( Plugin Idea ) & @BabosApple ( Programming )
+ - Author: @Guin#6114 ( Plugin Idea ) & @BabosApple ( Programming )
  - API: 3.0.0
  # FEATURES
    - UI Menu ( FormAPI Needed )
